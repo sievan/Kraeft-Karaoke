@@ -5,6 +5,7 @@ import { StaticImage } from "gatsby-plugin-image"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import * as styles from "../components/index.module.css"
+import Nav from "../components/nav"
 
 // import { readSongs } from "../lib/readSongs"
 
@@ -74,18 +75,20 @@ const moreLinks = [
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
 
 const IndexPage = ({ data }) => {
-  const songsHTML = data.allMarkdownRemark.edges.map(edge => edge.node.html)
+  const songbooks = data.allMarkdownRemark.edges.map(edge => edge.node)
+
   return (
     <Layout>
-      {songsHTML.map(html => (
-        <div dangerouslySetInnerHTML={{ __html: html }} />
-      ))}
-      <Seo title="Home" />
-      <div className={styles.textCenter}>
+      <Nav>
+        {songbooks.map(({ tableOfContents, html }) => (
+          <div dangerouslySetInnerHTML={{ __html: tableOfContents }} />
+        ))}
+      </Nav>
+      <div className={styles.textCenter} style={{ marginTop: 100 }}>
         <StaticImage
-          src="../images/example.png"
+          src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Kr%C3%A4ftor_kr%C3%A4va_dessa_drycker.jpg"
           loading="eager"
-          width={64}
+          width={400}
           quality={95}
           formats={["auto", "webp", "avif"]}
           alt=""
@@ -93,37 +96,9 @@ const IndexPage = ({ data }) => {
         />
         <h1>Kräftskiva på Lindvallsgatan 2</h1>
         <h2>27 Augusti 2022</h2>
-
-        <p className={styles.intro}>
-          <b>Example pages:</b>{" "}
-          {samplePageLinks.map((link, i) => (
-            <React.Fragment key={link.url}>
-              <Link to={link.url}>{link.text}</Link>
-              {i !== samplePageLinks.length - 1 && <> · </>}
-            </React.Fragment>
-          ))}
-          <br />
-          Edit <code>src/pages/index.js</code> to update this page.
-        </p>
       </div>
-      <ul className={styles.list}>
-        {links.map(link => (
-          <li key={link.url} className={styles.listItem}>
-            <a
-              className={styles.listItemLink}
-              href={`${link.url}${utmParameters}`}
-            >
-              {link.text} ↗
-            </a>
-            <p className={styles.listItemDescription}>{link.description}</p>
-          </li>
-        ))}
-      </ul>
-      {moreLinks.map((link, i) => (
-        <React.Fragment key={link.url}>
-          <a href={`${link.url}${utmParameters}`}>{link.text}</a>
-          {i !== moreLinks.length - 1 && <> · </>}
-        </React.Fragment>
+      {songbooks.map(({ tableOfContents, html }) => (
+        <div dangerouslySetInnerHTML={{ __html: html }} />
       ))}
     </Layout>
   )
@@ -142,6 +117,7 @@ export const query = graphql`
       edges {
         node {
           html
+          tableOfContents
           headings {
             value
           }

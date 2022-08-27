@@ -52,3 +52,43 @@
   max-width: none;
   line-height: var(--line-height-loose);
 }
+
+.navButton {
+  display: block;
+  width: 48px;
+  height: 48px;
+}
+
+.menuContent {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: beige;
+  z-index: 2;
+}
+
+.menuChildren > div > ul {
+  list-style: upper-roman;
+}
+
+.menuChildren > div > ul > li > ul {
+  list-style: none;
+}
+
+.menuChildren {
+  padding: 1rem;
+  height: 100%;
+  overflow: scroll;
+}
+
+.topBar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: beige;
+  z-index: 1;
+  padding: 1rem;
+}
