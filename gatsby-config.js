@@ -30,5 +30,32 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    // `gatsby-plugin-mdx`,
+    // {
+    //   resolve: `gatsby-source-filesystem`,
+    //   options: {
+    //     name: `pages`,
+    //     path: `${__dirname}/src/pages`,
+    //   },
+    // },
+    // {
+    //   resolve: `gatsby-transformer-remark`,
+    //   options: {
+    //     // Footnotes mode (default: true)
+    //     footnotes: true,
+    //     // GitHub Flavored Markdown mode (default: true)
+    //     gfm: true,
+    //     // Plugins configs
+    //     plugins: [],
+    //   },
+    // },
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `content`,
+        path: `${__dirname}/src/songs`,
+      },
+    },
   ],
 }
