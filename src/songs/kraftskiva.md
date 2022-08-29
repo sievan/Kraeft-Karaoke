@@ -17,10 +17,13 @@ Kort, men naggande god, vid vår sjö
 
 ## Röda Havet
 
-Vi gingo ned till röda havet , vi lågo i där minst en quart, Men inte blev vi röda av'et, men röda havet det blev svart.
+Vi gingo ned till röda havet,\
+vi lågo i där minst en quart.\
+Men inte blev vi röda av'et\
+men röda havet det blev svart.
 
-/ Men utav aquavit blir människan till kropp och själ
-så oskuldsfull och vit /
+/ Men utav aquavit\
+blir människan till kropp och själ så oskuldsfull och vit /
 
 ## Gräv ur tundran
 
