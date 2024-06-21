@@ -86,7 +86,7 @@ const IndexPage = ({ data }) => {
       </Nav>
       <div className={styles.textCenter} style={{ marginTop: 100 }}>
         <StaticImage
-          src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Kr%C3%A4ftor_kr%C3%A4va_dessa_drycker.jpg"
+          src="https://grandillusioncinema.org/wp-content/uploads/2023/06/midsommar.jpg"
           loading="eager"
           width={400}
           quality={95}
@@ -94,8 +94,8 @@ const IndexPage = ({ data }) => {
           alt=""
           style={{ marginBottom: `var(--space-3)` }}
         />
-        <h1>Kräftskiva på Lindvallsgatan 2</h1>
-        <h2>27 Augusti 2022</h2>
+        <h1>Midsommar i Gassarvet</h1>
+        <h2>21 Juni 2024</h2>
       </div>
       {songbooks.map(({ tableOfContents, html }) => (
         <div dangerouslySetInnerHTML={{ __html: html }} />

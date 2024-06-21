@@ -1,29 +1,46 @@
-# Lindvallsgatans Nationalsång
+# Midsommar vid siljan
 
-_Mel: Vintern Rasat_
+_Mel: Kung för en dag_
 
-Lindvallsgatan\
-dånar över taken\
-Hornstulls stolthet, undangömt och skönt\
-I vår gård, håller vi huset vaket\
-Hoppas på ett nattdopp i vår sjö
+Tillsammans visar vi viljan\
+Firar midsommar vid Siljan\
+Tittar på när mamma sveper ett glas\
+vilket jävla pangkalas!
 
-Återvinningsplats i nära anslutning\
-Krossen överröstar näppeligen\
-Blott ett stenkast bort från skolavslutning\
-Kort, men naggande god, vid vår sjö
+Tillsammans visar vi viljan\
+Firar midsommar vid Siljan\
+Sitter uppe hela natten, vi ska'\
+Förbi läggdags, ba' för en da'
 
-# Till Spriten
+_Bambambambaaam, bam, bam..._
 
-## Röda Havet
+# Till nubben
 
-Vi gingo ned till röda havet,\
-vi lågo i där minst en quart.\
-Men inte blev vi röda av'et\
-men röda havet det blev svart.
+## Finska långa
 
-/ Men utav aquavit\
-blir människan till kropp och själ så oskuldsfull och vit /
+Int' nu, men nu!
+
+## Hell and gore
+
+_Mel: Helan går_
+
+Hell and gore
+Chung Hop father Allan Allan ley.
+Hell and gore
+Chung Hop father Allan ley.
+Oh handsome in the hell and tar
+hand hell are in the half and four.
+Hell and gore
+Chung Hop father Allan ley!
+
+## Humlorna
+
+_Mel: Karl-Alfred Boy_
+
+Vi äro små humlor vi, bzz-bzz.
+Vi äro små humlor vi, bzz-bzz.
+Vi äro små humlor som tar oss en geting.
+Vi äro små humlor vi, bzz-bzz!
 
 ## Gräv ur tundran
 
@@ -42,7 +59,58 @@ Höj sen glasen för fosterlandets välgång (hej!)\
 Sjung nastrovje\
 Låt glasen gå i kras
 
+## Röda Havet
+
+Vi gingo ned till röda havet,\
+vi lågo i där minst en quart.\
+Men inte blev vi röda av'et\
+men röda havet det blev svart.
+
+/ Men utav aquavit\
+blir människan till kropp och själ så oskuldsfull och vit /
+
 # Studentikost
+
+## Spritbolaget
+
+_Mel: Snickerboa_
+
+Till spritbolaget ränner jag,
+och bankar på dess port.
+Jag vill ha nå't som bränner bra,
+och får mig skitfull fort.
+Expediten sade goda',
+hur gammal kan min herre va'.
+Har du nåt leg, ditt fula drägg,
+kom hit igen när du har fått skägg.
+
+Nej, detta var ju inte bra,
+jag skall bli full ikväll. (Igen!)
+Då plötsligt en ide jag fick,
+de har ju sprit på Shell. (Och Statoil!)
+Många flaskor stod där på ra'.
+Så nu kan jag bli full och gla'.
+Den röda drycken åkte ner,
+nu kan jag inte titta mer.
+
+## Feta fransyskor
+
+Feta fransyskor som svettas om fötterna\
+de trampar druvor som sedan skall jäsas till vin\
+Transpirationen viktig e’\
+ty den ger fin bouquet\
+Vårtor och svampar följer me’,\
+men vad gör väl de’?
+
+För...
+
+Vi vill ha vin, vill ha vin, vill ha mera vin\
+även om följderna bli att vi må lida pin\
+Flickor: Flaskan och glaset gått i sin\
+Pojkar: Hit med vin, mera vin\
+Flickor: Tror ni att vi är fyllesvin?
+
+JA! (Fast större)
 
 ## Fredmans epistel n:o 21
 
@@ -73,25 +141,6 @@ vid aftonstjärnans bloss.
 
 Tycker du att graven är för djup...
 
-## Feta fransyskor
-
-Feta fransyskor som svettas om fötterna\
-de trampar druvor som sedan skall jäsas till vin\
-Transpirationen viktig e’\
-ty den ger fin bouquet\
-Vårtor och svampar följer me’,\
-men vad gör väl de’?
-
-För...
-
-Vi vill ha vin, vill ha vin, vill ha mera vin\
-även om följderna bli att vi må lida pin\
-Flickor: Flaskan och glaset gått i sin\
-Pojkar: Hit med vin, mera vin\
-Flickor: Tror ni att vi är fyllesvin?
-
-JA! (Fast större)
-
 # Klassiker
 
 ## Gösta
@@ -104,6 +153,47 @@ Godda’, godda’, godda’\
 Gösta heter jag\
 Godda’, godda’, godda’\
 GODDA´!
+
+## Oppochnedvisan
+
+Opp och ner
+ner och opp
+grisen gal i granens topp
+och en mus
+i vårt hus
+svär och tuggar snus.
+Lammet skäller,
+värper karameller,
+hunden jamar,
+lilla grisen gal.
+
+Opp och ner
+ner och opp
+grisen gal i granens topp
+och vår ko,
+må ni tro,
+hon ska ut och ro.
+Geten dansar,
+tuppen har fem svansar,
+oxen kacklar,
+lilla grisen gal.
+
+Opp och ner
+ner och opp
+grisen gal i granens topp
+och vår katt han tror att
+myssan är en hatt.
+Hönan jagar
+räv i våra hagar,
+kossan gnäggar,
+lilla grisen gal.
+
+Opp och ner
+ner och opp
+grisen gal i granens topp
+och vår stut
+flyger ut.
+Nu är visan slut.
 
 ## Ingen tycker om mig
 
@@ -155,14 +245,41 @@ hej di hej da
 hej di hej di hej da
 HEJ
 
+## Lindvallsgatans Nationalsång
+
+_Mel: Vintern Rasat_
+
+Lindvallsgatan\
+dånar över taken\
+Hornstulls stolthet, undangömt och skönt\
+I vår gård, håller vi huset vaket\
+Hoppas på ett nattdopp i vår sjö
+
+Återvinningsplats i nära anslutning\
+Krossen överröstar näppeligen\
+Blott ett stenkast bort från skolavslutning\
+Kort, men naggande god, vid vår sjö
+
 # Internationellt!
 
-## Min hat
+## A village in Germany
 
-Min hat den har tre buler\
-tre buler har min hat\
-og har den ikke tre buler\
-så er det ej min hat!
+A long time ago in a small town in Germany\
+There was a shoemaker, Schuhmann was his name.\
+And she could play the violin, violin, violin\
+She could play the violin, vio-violin’
+
+2. Piccolo ...
+3. Big trombone ...
+4. Synthesizer ...
+5. Bloody fool ...
+
+## The Spark
+
+||: Think you can stop what we do? I doubt it. _What?_\
+We got the energy, we’ll tell you all about it. _Huh!_\
+I searched for my spark, and I found it. _Yeah!_\
+Everybody in the crowd start bouncing. :||
 
 ## The little green frog
 
@@ -176,17 +293,12 @@ Squish, squish went the little green frog\
 His eyes didn’t go ooh-aah no more\
 Cuz’ he got licked up by a dog
 
-## A village in Germany
+## Min hat
 
-A long time ago in a small town in Germany\
-There was a shoemaker, Schuhmann was his name.\
-And she could play the violin, violin, violin\
-She could play the violin, vio-violin’
-
-2. Piccolo ...
-3. Big trombone ...
-4. Synthesizer ...
-5. Bloody fool ...
+Min hat den har tre buler\
+tre buler har min hat\
+og har den ikke tre buler\
+så er det ej min hat!
 
 ## Ping-pong ball
 
