@@ -24,22 +24,22 @@ Int' nu, men nu!
 
 _Mel: Helan går_
 
-Hell and gore
-Chung Hop father Allan Allan ley.
-Hell and gore
-Chung Hop father Allan ley.
-Oh handsome in the hell and tar
-hand hell are in the half and four.
-Hell and gore
+Hell and gore\
+Chung Hop father Allan Allan ley.\
+Hell and gore\
+Chung Hop father Allan ley.\
+Oh handsome in the hell and tar\
+hand hell are in the half and four.\
+Hell and gore\
 Chung Hop father Allan ley!
 
 ## Humlorna
 
 _Mel: Karl-Alfred Boy_
 
-Vi äro små humlor vi, bzz-bzz.
-Vi äro små humlor vi, bzz-bzz.
-Vi äro små humlor som tar oss en geting.
+Vi äro små humlor vi, bzz-bzz.\
+Vi äro små humlor vi, bzz-bzz.\
+Vi äro små humlor som tar oss en geting.\
 Vi äro små humlor vi, bzz-bzz!
 
 ## Gräv ur tundran
@@ -75,22 +75,22 @@ blir människan till kropp och själ så oskuldsfull och vit /
 
 _Mel: Snickerboa_
 
-Till spritbolaget ränner jag,
-och bankar på dess port.
-Jag vill ha nå't som bränner bra,
-och får mig skitfull fort.
-Expediten sade goda',
-hur gammal kan min herre va'.
-Har du nåt leg, ditt fula drägg,
+Till spritbolaget ränner jag,\
+och bankar på dess port.\
+Jag vill ha nå't som bränner bra,\
+och får mig skitfull fort.\
+Expediten sade goda',\
+hur gammal kan min herre va'.\
+Har du nåt leg, ditt fula drägg,\
 kom hit igen när du har fått skägg.
 
-Nej, detta var ju inte bra,
-jag skall bli full ikväll. (Igen!)
-Då plötsligt en ide jag fick,
-de har ju sprit på Shell. (Och Statoil!)
-Många flaskor stod där på ra'.
-Så nu kan jag bli full och gla'.
-Den röda drycken åkte ner,
+Nej, detta var ju inte bra,\
+jag skall bli full ikväll. (Igen!)\
+Då plötsligt en ide jag fick,\
+de har ju sprit på Shell. (Och Statoil!)\
+Många flaskor stod där på ra'.\
+Så nu kan jag bli full och gla'.\
+Den röda drycken åkte ner,\
 nu kan jag inte titta mer.
 
 ## Feta fransyskor
@@ -156,43 +156,43 @@ GODDA´!
 
 ## Oppochnedvisan
 
-Opp och ner
-ner och opp
-grisen gal i granens topp
-och en mus
-i vårt hus
-svär och tuggar snus.
-Lammet skäller,
-värper karameller,
-hunden jamar,
+Opp och ner\
+ner och opp\
+grisen gal i granens topp\
+och en mus\
+i vårt hus\
+svär och tuggar snus.\
+Lammet skäller,\
+värper karameller,\
+hunden jamar,\
 lilla grisen gal.
 
-Opp och ner
-ner och opp
-grisen gal i granens topp
-och vår ko,
-må ni tro,
-hon ska ut och ro.
-Geten dansar,
-tuppen har fem svansar,
-oxen kacklar,
+Opp och ner\
+ner och opp\
+grisen gal i granens topp\
+och vår ko,\
+må ni tro,\
+hon ska ut och ro.\
+Geten dansar,\
+tuppen har fem svansar,\
+oxen kacklar,\
 lilla grisen gal.
 
-Opp och ner
-ner och opp
-grisen gal i granens topp
-och vår katt han tror att
-myssan är en hatt.
-Hönan jagar
-räv i våra hagar,
-kossan gnäggar,
+Opp och ner\
+ner och opp\
+grisen gal i granens topp\
+och vår katt han tror att\
+myssan är en hatt.\
+Hönan jagar\
+räv i våra hagar,\
+kossan gnäggar,\
 lilla grisen gal.
 
-Opp och ner
-ner och opp
-grisen gal i granens topp
-och vår stut
-flyger ut.
+Opp och ner\
+ner och opp\
+grisen gal i granens topp\
+och vår stut\
+flyger ut.\
 Nu är visan slut.
 
 ## Ingen tycker om mig
@@ -230,19 +230,20 @@ Det ska va´ …
 
 ## Jopp hej di
 
-Jopp hej di hej di hej da
-jopp hej di jopp hej da
-jopp hej di hej di hej da
-jopp hej di hej da
-hej di hej da
-hej di hej di hej da
+Jopp hej di hej di hej da\
+jopp hej di jopp hej da\
+jopp hej di hej di hej da\
+jopp hej di hej da\
+hej di hej da\
+hej di hej di hej da\
 HEJ
-Jopp hej di hej di hej da
-jopp hej di jopp hej da
-jopp hej di hej di hej da
-jopp hej di hej da
-hej di hej da
-hej di hej di hej da
+
+Jopp hej di hej di hej da\
+jopp hej di jopp hej da\
+jopp hej di hej di hej da\
+jopp hej di hej da\
+hej di hej da\
+hej di hej di hej da\
 HEJ
 
 ## Lindvallsgatans Nationalsång
