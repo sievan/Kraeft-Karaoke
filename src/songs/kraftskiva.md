@@ -42,6 +42,13 @@ Vi äro små humlor vi, bzz-bzz.\
 Vi äro små humlor som tar oss en geting.\
 Vi äro små humlor vi, bzz-bzz!
 
+## Midsommarstången
+
+_Mel: Fråga Jacob_
+
+Midsommarstången, midsommarstången
+Hade ont i benet!
+
 ## Gräv ur tundran
 
 Gräv ur tundran två dussin potäter\
