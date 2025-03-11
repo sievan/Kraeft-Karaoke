@@ -1,5 +1,7 @@
 # Kräft-Karaoke
 
+<img src="./logo.png" width="300" alt="Logo">
+
 A web-based digital songbook built with Gatsby. Create and share your favorite songs for gatherings, parties, or events.
 
 Despite the name, you don't have to use it for crayfish parties, you can use it for midsummer parties as well as a cure for any awkward silence. Nothing says "traditional Swedish gathering" like balancing smelly seafood, aquavit, and your phone all at once!
