@@ -27,7 +27,7 @@ const IndexPage = ({ data }) => {
           alt="kräftskiva"
           style={{
             marginBottom: `var(--space-3)`,
-            marginTop: "calc(var(--space-6) * -1)",
+            marginTop: "calc(var(--space-5) * -1)",
             marginLeft: "calc(var(--space-5) * -1)",
             marginRight: "calc(var(--space-5) * -1)",
           }}

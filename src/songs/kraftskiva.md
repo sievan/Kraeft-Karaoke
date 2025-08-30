@@ -57,8 +57,40 @@ vi lågo i där minst en quart.\
 Men inte blev vi röda av'et\
 men röda havet det blev svart.
 
-/ Men utav aquavit\
-blir människan till kropp och själ så oskuldsfull och vit /
+/: Men utav aquavit\
+Blir människan till kropp och själ\
+så oskuldsfull och vit :/
+
+## Sån är spriten
+
+_Mel: Sånt är livet_
+
+Sån är spriten, ja sån är spriten \
+Så mycket brännvin finns det här \
+Den sup man ratar, den tar nån annan \
+Så ta nu snapsen som du har kär.
+
+## Vikingen
+
+_Mel: When Johnnie L comes marching_
+
+En viking älskar livets vand,\
+hurra, hurra!\
+Det hastigt i hans svalg försvann,\
+hurra, hurra!\
+Till kalv, till oxe, till fisk, till fläsk,\
+när käringar bara dricker läsk.\
+Ja, då vill alla vikingar ha en bäsk.
+
+När bäsken småningom är slut, \
+tragik, panik!\
+Då bäres varje viking ut \
+som lik, sig lik.\
+Och när vi vaknar, vi sjunger en bit,\
+sen korkar vi upp skånes akvavit.\
+/: Skål för alla :/ vikingar som kom hit.
+
+Snapsvisor.nu #2306
 
 # Studentikost
 
