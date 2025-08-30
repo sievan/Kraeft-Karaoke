@@ -19,16 +19,21 @@ const IndexPage = ({ data }) => {
       </Nav>
       <div className={styles.textCenter} style={{ marginTop: 100 }}>
         <StaticImage
-          src="https://grandillusioncinema.org/wp-content/uploads/2023/06/midsommar.jpg"
+          src="../images/kraftis.jpg"
           loading="eager"
-          width={400}
+          // width={400}
           quality={95}
           formats={["auto", "webp", "avif"]}
-          alt=""
-          style={{ marginBottom: `var(--space-3)` }}
+          alt="kräftskiva"
+          style={{
+            marginBottom: `var(--space-3)`,
+            marginTop: "calc(var(--space-6) * -1)",
+            marginLeft: "calc(var(--space-5) * -1)",
+            marginRight: "calc(var(--space-5) * -1)",
+          }}
         />
-        <h1>Midsommar i Gassarvet</h1>
-        <h2>21 Juni 2024</h2>
+        <h1>Kräftis i Rönninge</h1>
+        <h2>30 Augusti 2025</h2>
       </div>
       {songbooks.map(({ html }) => (
         <div dangerouslySetInnerHTML={{ __html: html }} />

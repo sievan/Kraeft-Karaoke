@@ -1,19 +1,3 @@
-# Midsommar vid siljan
-
-_Mel: Kung för en dag_
-
-Tillsammans visar vi viljan\
-Firar midsommar vid Siljan\
-Tittar på när mamma sveper ett glas\
-vilket jävla pangkalas!
-
-Tillsammans visar vi viljan\
-Firar midsommar vid Siljan\
-Sitter uppe hela natten, vi ska'\
-Förbi läggdags, ba' för en da'
-
-_Bambambambaaam, bam, bam..._
-
 # Till nubben
 
 ## Finska långa
